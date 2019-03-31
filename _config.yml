@@ -20,8 +20,8 @@ douban_username:  # 你的豆瓣id
 twitter_username:
 github_username: "wenbobuaa"
 facebook_username:
-weibo_username:
-zhihu_username: "步惊云"
+weibo_username: "wenbobuaa"
+zhihu_username: "wenbobuaa"
 
 # Build settings
 # use Github Flavored Markdown !important
