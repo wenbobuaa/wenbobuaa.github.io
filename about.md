@@ -5,9 +5,7 @@ description: "关于作者"
 header-img: "img/green.jpg"
 ---
 
-### Auther himself
-
->李文博wenbo, a son, brother and computer engeneer in Beijng, China.
+> 李文博wenbo, a son, brother and computer engeneer in Beijng, China.
 > He is leaning and working on Distributed Storage System.
 >
 > He is CPC member, no religion, no idol.
@@ -15,10 +13,10 @@ header-img: "img/green.jpg"
 > He likes reading, basketball and games(prefers watching than playing).
 >
 > He wants to log his life and maybe some other sharing or works here.
-
+>
 > email: wenbobuaa@gmail.com
 
-李文博wenbo, 家庭里父母的儿子，弟弟的兄长。职业是程序员，工作在北京。
+李文博wenbo, 家里父母的儿子，弟弟的兄长。职业是程序员，工作在北京。
 学习和工作的研究内容是分布式存储系统。
 
 没有宗教信仰，没有偶像，是中国共产党员。
