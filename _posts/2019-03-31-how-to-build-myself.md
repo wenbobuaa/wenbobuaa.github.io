@@ -23,5 +23,5 @@ description: hello my blog
 你也喜欢或者想自己试试的话，这里有一篇更详细的[教程](https://www.cnfeat.com/blog/2014/05/11/how-to-build-a-blog)。
 
 这个系统做的很棒，详尽的教程也很容易让新手上手实践。
-这离不开 [cnfeat](https://www.confeat.com) 的努力，感谢。
+这离不开 [cnfeat](https://www.cnfeat.com) 的努力，感谢。
 我在用起来之后，也一定会尽力让这个系统更加好看和好用一些。
