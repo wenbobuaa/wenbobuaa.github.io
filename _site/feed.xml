@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wenbobuaa blog</title>
+    <description>Try to log my life here</description>
+    <link>https://wenbobuaa.github.io/</link>
+    <atom:link href="https://wenbobuaa.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 28 Mar 2021 18:03:32 +0800</pubDate>
+    <lastBuildDate>Sun, 28 Mar 2021 18:03:32 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>How to build myself</title>
+        <description>&lt;h3 id=&quot;这个博客如何搭建&quot;&gt;这个博客如何搭建？&lt;/h3&gt;
+
+&lt;p&gt;这个博客系统参考了 &lt;a href=&quot;https://github.com/cnfeat/blog.io&quot;&gt;cnfeat 的博客&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;想自己试试的话，这里有一篇更详细的&lt;a href=&quot;https://www.cnfeat.com/blog/2014/05/11/how-to-build-a-blog&quot;&gt;教程&lt;/a&gt;。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Mar 2019 00:00:00 +0800</pubDate>
+        <link>https://wenbobuaa.github.io/blog/2019/03/31/how-to-build-myself/</link>
+        <guid isPermaLink="true">https://wenbobuaa.github.io/blog/2019/03/31/how-to-build-myself/</guid>
+        
+        <category>Tutorial</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
